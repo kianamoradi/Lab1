@@ -1,5 +1,5 @@
 # Lab1
-Link to map: 
+Link to map: https://api.mapbox.com/styles/v1/kianamoradi/clvh09g7800h901rd51x7b7m6.html?title=view&access_token=pk.eyJ1Ijoia2lhbmFtb3JhZGkiLCJhIjoiY2twcmE2YThrMDR1bzJxcXI2bDBpc2lqYyJ9.qeBCJlro9gWWWg4j25jmzQ&zoomwheel=true&fresh=true#11.19/49.2516/-123.134 
 
 Public School's Accessibility to Green Space 
 
