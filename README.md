@@ -1,6 +1,8 @@
 # Lab1
 Link to map: https://api.mapbox.com/styles/v1/kianamoradi/clvh09g7800h901rd51x7b7m6.html?title=view&access_token=pk.eyJ1Ijoia2lhbmFtb3JhZGkiLCJhIjoiY2twcmE2YThrMDR1bzJxcXI2bDBpc2lqYyJ9.qeBCJlro9gWWWg4j25jmzQ&zoomwheel=true&fresh=true#11.19/49.2516/-123.134 
 
+Link to map: https://kianamoradi.github.io/Lab1/index.html
+
 Public School's Accessibility to Green Space 
 
 Research has proven there are significant physical and mental health benefits associated with use of quality greenspaces. Vegetation improves air quality, reduces noise, and mitigates urban temperatures. Furthermore, having easy and quick access to green spaces encourages more movement and physical activity which is crucial for combating possible chronic diseases. Green spaces also have a significant correlation to stress reduction, happiness and improved mood, and cognitive benefits such as improved concentration and memory. The fresh air and claming effects of parks and gardens provides a mental reset and promotes productivity. There are many social benefits to having parks and gardens nearby, because they provide a gathering space for the community and encourage social interaction.
